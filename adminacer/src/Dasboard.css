@@ -1,0 +1,40 @@
+.bocx{
+    background-color: #111113;
+    height: 330px;
+    margin-left: 1px;
+    margin-bottom: 1px;
+    
+  }
+.grid1{
+    margin-top: 50px;
+    width: 1200px;
+  }
+
+.nav{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.navcomp{
+    background-color: #111113;
+    height: 65px;
+    margin-left: 1px;
+    width: 160px;
+    padding-left: 23px;
+}
+
+h3{
+    color: white;
+}
+h1{
+    color: aliceblue;
+    font-size: 60px;
+    text-align: center;
+
+}
+p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
